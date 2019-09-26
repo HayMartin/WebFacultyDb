@@ -1,0 +1,9 @@
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\bin\Debug\netstandard2.0\WebFaculty.Core.deps.json
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\bin\Debug\netstandard2.0\WebFaculty.Core.dll
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\bin\Debug\netstandard2.0\WebFaculty.Core.pdb
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\obj\Debug\netstandard2.0\WebFaculty.Core.csprojAssemblyReference.cache
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\obj\Debug\netstandard2.0\WebFaculty.Core.csproj.CoreCompileInputs.cache
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\obj\Debug\netstandard2.0\WebFaculty.Core.AssemblyInfoInputs.cache
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\obj\Debug\netstandard2.0\WebFaculty.Core.AssemblyInfo.cs
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\obj\Debug\netstandard2.0\WebFaculty.Core.dll
+C:\Users\uGeek\Desktop\Martin\OFour\OFour.Core\obj\Debug\netstandard2.0\WebFaculty.Core.pdb

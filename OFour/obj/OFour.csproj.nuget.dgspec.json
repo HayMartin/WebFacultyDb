@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour\\OFour.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Bll\\OFour.Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Bll\\OFour.Bll.csproj",
+        "projectName": "OFour.Bll",
+        "projectPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Bll\\OFour.Bll.csproj",
+        "packagesPath": "C:\\Users\\uGeek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\uGeek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Core\\OFour.Core.csproj": {
+                "projectPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Core\\OFour.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Core\\OFour.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Core\\OFour.Core.csproj",
+        "projectName": "OFour.Core",
+        "projectPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Core\\OFour.Core.csproj",
+        "packagesPath": "C:\\Users\\uGeek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\uGeek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Dal\\OFour.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Dal\\OFour.Dal.csproj",
+        "projectName": "OFour.Dal",
+        "projectPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Dal\\OFour.Dal.csproj",
+        "packagesPath": "C:\\Users\\uGeek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\uGeek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Core\\OFour.Core.csproj": {
+                "projectPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Core\\OFour.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour\\OFour.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour\\OFour.csproj",
+        "projectName": "WebFaculty",
+        "projectPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour\\OFour.csproj",
+        "packagesPath": "C:\\Users\\uGeek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\uGeek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Bll\\OFour.Bll.csproj": {
+                "projectPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Bll\\OFour.Bll.csproj"
+              },
+              "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Dal\\OFour.Dal.csproj": {
+                "projectPath": "C:\\Users\\uGeek\\Desktop\\Martin\\OFour\\OFour.Dal\\OFour.Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.table {
+  border: 2px solid #000;
+}
+.table th, td {
+  border: 2px solid #000;
+  
+}
+.table th, td {
+  border: 2px solid #000;
+  
+}
